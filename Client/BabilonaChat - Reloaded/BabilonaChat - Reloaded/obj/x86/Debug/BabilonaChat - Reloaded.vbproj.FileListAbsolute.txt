@@ -1,0 +1,23 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\bin\Debug\BabilonaChat - Reloaded.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\bin\Debug\BabilonaChat - Reloaded.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\bin\Debug\BabilonaChat - Reloaded.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat___Reloaded.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat___Reloaded.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat - Reloaded.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat - Reloaded.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat - Reloaded.pdb
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat - Reloaded.exe
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat - Reloaded.xml
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat - Reloaded.pdb
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\bin\Debug\BabilonaChat - Reloaded.exe
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\bin\Debug\BabilonaChat - Reloaded.pdb
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\bin\Debug\BabilonaChat - Reloaded.xml
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat___Reloaded.Form1.resources
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\BabilonaChat___Reloaded.Resources.resources
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Nuova babilonia\Client\BabilonaChat - Reloaded\BabilonaChat - Reloaded\bin\Debug\PassGen.dll

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BabilonaChat-Reloaded
+</name>
+</assembly>
+<members>
+<member name="M:BabilonaChat___Reloaded.Module1.AES256.#ctor(System.String)">
+	<summary>
+   Class Constructor
+ </summary>
+	<param name="key"> Encryption key </param>
+</member><member name="M:BabilonaChat___Reloaded.Module1.AES256.Encrypt(System.String)">
+	<summary>
+   Encrypts a string
+ </summary>
+	<param name="toEncrypt"> String to encrypt </param>
+	<returns> Encrypted and base64 encoded string </returns>
+</member><member name="M:BabilonaChat___Reloaded.Module1.AES256.Decrypt(System.String)">
+	<summary>
+   Decrypts a string
+ </summary>
+	<param name="toDecrypt"> Encrypted and base64 encoded string </param>
+	<returns> Decrypted string </returns>
+</member><member name="T:BabilonaChat___Reloaded.Module1.AES256">
+	<summary>
+   Encrypts string with AES256 algorithm
+ </summary>
+</member><member name="P:BabilonaChat___Reloaded.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:BabilonaChat___Reloaded.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="T:BabilonaChat___Reloaded.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+</members>
+</doc>

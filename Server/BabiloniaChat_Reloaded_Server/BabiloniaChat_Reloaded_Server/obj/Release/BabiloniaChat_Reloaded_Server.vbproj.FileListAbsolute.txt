@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\bin\Release\BabiloniaChat_Reloaded_Server.exe
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.ChatClient.resources
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.Form1.resources
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.Resources.resources
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.exe
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.exe
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\bin\Release\BabiloniaChat_Reloaded_Server.exe
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\ResolveAssemblyReference.cache
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.ChatClient.resources
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.Form1.resources
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\BabiloniaChat_Reloaded_Server.Resources.resources
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\GenerateResource.read.1.tlog
+D:\Vari desktop\VB.net\Programmi 2012\Nuova babilonia chat DECENTE\Progetto\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,15 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\bin\Debug\BabiloniaChat_Reloaded_Server.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\bin\Debug\BabiloniaChat_Reloaded_Server.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\bin\Debug\BabiloniaChat_Reloaded_Server.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.ChatClient.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.pdb
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.exe
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.xml
+C:\Users\Administrator\Desktop\Nuova babilonia\Server\BabiloniaChat_Reloaded_Server\BabiloniaChat_Reloaded_Server\obj\x86\Debug\BabiloniaChat_Reloaded_Server.pdb
